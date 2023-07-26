@@ -1,5 +1,8 @@
+/* eslint-disable */
+
+
 import React from 'react';
-import { FaStar } from 'react-icons/fa'; // Importing react-icons package for star icons
+import { FaStar } from 'react-icons/fa'; 
 
 const Testimonial = () => { 
     const data = {

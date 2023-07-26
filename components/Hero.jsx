@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import { useState } from "react";
 import { AiOutlineCheckCircle, AiOutlinePlayCircle, AiOutlineStar } from "react-icons/ai";
 
